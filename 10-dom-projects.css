@@ -1,0 +1,65 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.subscribe-button{
+    padding-left: 16px;
+    font-weight: bold;
+    padding-right: 16px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
+}
+
+.js-subscribe-button:hover{
+    cursor: pointer;
+}
+
+.is-subscribed {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    
+}
+.rps-game-label{
+    margin-top: 50px;
+}
+
+.rps-game-link {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.js-customerCost-input{
+    height: 30px;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 8px;
+
+}
+
+.calculate-button{
+    padding-left: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-right: 16px;
+    font-weight: 100;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(11, 109, 11);
+    color: white;
+    border: none;
+}
+
+.calculate-button:hover{
+    cursor: pointer;
+}
